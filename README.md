@@ -1,3 +1,6 @@
+> [!WARNING]
+> **Use at your own risk.** OpenGhast modifies Windows networking, service, and process settings. It is provided as-is, without warranty.
+
 > [!NOTE]  
 > **OpenGhast creates automated restore backups before applying changes.**
 > **You can revert to Windows stock defaults anytime with `[S] Stop Services` or Advanced Settings `[8] -> [N] -> [3]`.**
